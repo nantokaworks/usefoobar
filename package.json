@@ -1,5 +1,5 @@
 {
-  "name": "usehooks",
+  "name": "usehonya",
   "version": "0.0.1",
   "description": "tiny react hooks library :)",
   "keywords": [
@@ -8,7 +8,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ichiql/usehooks.git"
+    "url": "git+https://github.com/ichiql/usehonya.git"
   },
   "license": "MIT",
   "author": "Yamashita, Shinichi",

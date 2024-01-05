@@ -1,11 +1,11 @@
-# usehooks
+# usehonya
 
-小さな hook 集 :)
+react hooks, use ほにゃらら :)
 
-tiny react hooks
+react hooks, use(blah-blah-blah)
 
 ```shell
-pnpm add usehooks
-npm install usehooks
-yarn add usehooks
+pnpm add usehonya
+npm install usehonya
+yarn add usehonya
 ```

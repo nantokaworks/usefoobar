@@ -14,7 +14,7 @@ const genInitialState = () => {
  *
  * @example
  * ```tsx
- * import { usePrefersReducedMotion } from 'usehooks'
+ * import { usePrefersReducedMotion } from 'usehonya'
  * const prefersReducedMotion = usePrefersReducedMotion()
  * return (
  *   <div style={{ color: prefersReducedMotion ? 'white' : 'red'}}>
