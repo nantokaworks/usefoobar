@@ -1,11 +1,11 @@
-# usehonya
+# usefoobar
 
 react hooks, use ほにゃらら :)
 
 react hooks, use(blah-blah-blah)
 
 ```shell
-pnpm add usehonya
-npm install usehonya
-yarn add usehonya
+pnpm add usefoobar
+npm install usefoobar
+yarn add usefoobar
 ```

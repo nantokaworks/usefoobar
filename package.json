@@ -1,5 +1,5 @@
 {
-  "name": "usehonya",
+  "name": "usefoobar",
   "version": "0.0.1",
   "description": "tiny react hooks library :)",
   "keywords": [
@@ -8,7 +8,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ichiql/usehonya.git"
+    "url": "git+https://github.com/nantokaworks/usefoobar.git"
   },
   "license": "MIT",
   "author": "Yamashita, Shinichi",
@@ -21,9 +21,9 @@
     "lint": "eslint ./src/*",
     "prepublish": "pnpm build"
   },
-  "prettier": "@ichiql/prettier-config",
+  "prettier": "prettier-config-nantokaworks",
   "devDependencies": {
-    "@ichiql/prettier-config": "^0.1.1",
+    "prettier-config-nantokaworks": "^0.1.1",
     "@types/react": "^18.2.37",
     "@types/rollup-plugin-peer-deps-external": "^2.2.4",
     "@vitejs/plugin-react": "^4.2.0",
