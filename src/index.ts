@@ -1,4 +1,5 @@
 export * from './useEffectOnce'
+export * from './useInterval'
 export * from './useIsClient'
 export * from './usePrefersReducedMotion'
 export * from './useRandomInterval'
