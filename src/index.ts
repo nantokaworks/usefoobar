@@ -1,6 +1,7 @@
 export * from './useEffectOnce'
 export * from './useInterval'
 export * from './useIsClient'
+export * from './useLongPress'
 export * from './usePrefersReducedMotion'
 export * from './useRandomInterval'
 export * from './useWindowResize'

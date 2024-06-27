@@ -1,5 +1,17 @@
 import { useEffect, useRef } from 'react'
 
+/**
+ * setInterval
+ *
+ * @example
+ * ```tsx
+ * import { useInterval } from 'usefoobar'
+ *
+ * useInterval(() => {
+ *   console.log(new Date())
+ * })
+ * ```
+ */
 export function useInterval(
   callback: () => void,
   delay?: number | null | false,
@@ -23,5 +35,3 @@ export function useInterval(
     return () => clearInterval(id)
   }, [delay])
 }
-
-export default useInterval

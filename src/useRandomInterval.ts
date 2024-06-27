@@ -12,7 +12,7 @@ interface Options {
  *
  * @example
  * ```tsx
- * import { useRandomInterval } from 'use-random-interval'
+ * import { useRandomInterval } from 'usefoobar'
  *
  * useRandomInterval(() => {
  *   console.log(new Date())
