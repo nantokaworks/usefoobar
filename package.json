@@ -1,6 +1,6 @@
 {
   "name": "usefoobar",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "tiny react hooks library :)",
   "keywords": [
     "react",
@@ -30,7 +30,6 @@
     "eslint": "^8.53.0",
     "eslint-config-prettier": "^9.0.0",
     "eslint-plugin-import": "^2.29.0",
-    "react": ">= 18",
     "rollup-plugin-visualizer": "^5.9.2",
     "saikoro": "^0.0.3",
     "typescript": "^5.0.4",
